@@ -21,7 +21,7 @@ This project predicts stock prices using Deep Learning (LSTM) and Streamlit.User
 - yFinance
 
 ## Project Structure
-
+```sh
 STOCK_PRICE/
 │
 ├── web_stock_price_predictor.py
@@ -29,6 +29,7 @@ STOCK_PRICE/
 ├── Latest_stock_price_model_v2.keras
 ├── requirements.txt
 └── README.md
+```
 
 
 ## How to Run
