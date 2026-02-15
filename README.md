@@ -1,6 +1,7 @@
 # Stock Price Predictor
 
-This project predicts stock prices using Deep Learning (LSTM) and Streamlit.
+Live App: https://stock-price-predictor-akshaya.streamlit.app/
+This project predicts stock prices using Deep Learning (LSTM) and Streamlit.Users can enter any stock symbol and view predictions, moving averages, and model accuracy.
 
 ## Features
 
